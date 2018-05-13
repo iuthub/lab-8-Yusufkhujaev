@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- Student ID: U1610127
-- Student Name: Madina Kurbanova
-- Section Number: 002
+- Student ID: U1610115
+- Student Name: Khusan Yusufkhujaev
+- Section Number: 003
 
 ## Tasks
 Finish following tasks in this project:
